@@ -1,0 +1,20 @@
+{
+  "name": "screensharing-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pusher/chatkit-server": "^2.1.1",
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.5",
+    "dotenv": "^4.0.0",
+    "express": "^4.15.3",
+    "pusher": "^2.2.2",
+    "random-id": "^1.0.3"
+  }
+}
