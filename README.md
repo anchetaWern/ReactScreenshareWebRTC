@@ -1,6 +1,8 @@
 # ReactScreenshareWebRTC
 A screensharing app built with React, Simple Peer, Channels, and Chatkit.
 
+Here's the link to the full tutorial: [https://pusher.com/tutorials/screen-sharing-app-react-webrtc](https://pusher.com/tutorials/screen-sharing-app-react-webrtc)
+
 The app has the following features:
 
 - Screensharing (Google Chrome only)
